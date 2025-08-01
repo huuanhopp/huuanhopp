@@ -107,7 +107,7 @@ I'm a **Senior React Native Developer** and **Team Leader** with **5+ years of p
 ## 🎓 Education & Awards
 
 **🎓 University of Transport and Communications**  
-*Information Technology (2017-2021) | GPA: 3.15/4*
+*Information Technology (2017-2021)*
 
 **🏆 Awards:**
 - 🥉 Third prize in school-level scientific research competition (Mobile App Development)
