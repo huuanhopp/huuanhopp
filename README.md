@@ -2,7 +2,7 @@
 ### 🚀 Senior React Native Developer | Team Leader | 5+ Years Experience
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Senior+React+Native+Developer;Team+Leader+%26+Mentor;Mobile+App+Specialist;Blockchain+%26+Web3+Expert;Always+delivering+quality+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&duration=1500&color=36BCF7&center=true&vCenter=true&width=500&lines=Senior+React+Native+Developer;Team+Leader+%26+Mentor;Mobile+App+Specialist;Blockchain+%26+Web3+Expert;Always+delivering+quality+code" alt="Typing SVG" />
 </div>
 
 ---
@@ -120,9 +120,9 @@ I'm a **Senior React Native Developer** and **Team Leader** with **5+ years of p
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huuanh.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luonghuuanh)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/huuanhopp)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luonganh.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luonghuuanh/)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hanopp14)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://huuanhopp.dev)
 
 </div>
@@ -133,9 +133,6 @@ I'm a **Senior React Native Developer** and **Team Leader** with **5+ years of p
   
 ### 💡 **Ready to build your next mobile success story?**
 ### 📞 **Let's discuss your project requirements**
-
-<img src="https://komarev.com/ghpvc/?username=huuanhopp&color=brightgreen&style=for-the-badge" alt="Profile views" />
-
 </div>
 
 ---
